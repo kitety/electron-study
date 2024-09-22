@@ -1,0 +1,12 @@
+{
+  "name": "electron-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^32.1.2"
+  },
+  "scripts": {
+    "start": "electron ./src/main/index.js"
+  }
+}
